@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+NAME:- BRINDHA A R
+
 DATE:- 30/11/2025
 
 ## AIM
